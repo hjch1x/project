@@ -1,0 +1,5 @@
+﻿  Laba3(gh).cpp
+C:\Users\hjch1x\source\repos\Laba3(gh)\Laba3(gh).cpp(273,13): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\hjch1x\source\repos\Laba3(gh)\Laba3(gh).cpp(276,18): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\hjch1x\source\repos\Laba3(gh)\Laba3(gh).cpp(279,18): warning C4984: "if constexpr" — расширение языка C++17
+  Laba3(gh).vcxproj -> C:\Users\hjch1x\source\repos\Laba3(gh)\x64\Debug\Laba3(gh).exe
