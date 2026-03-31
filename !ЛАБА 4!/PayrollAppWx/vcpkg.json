@@ -1,0 +1,8 @@
+{
+  "name": "payrollappwx",
+  "version": "1.0.0",
+  "dependencies": [
+    "wxwidgets"
+  ],
+  "builtin-baseline": "latest"
+}
