@@ -21,3 +21,11 @@
 - ✅ Статистика (базовая ≤3 сотрудников, расширенная >3 сотрудников)
 
 ## Структура проекта
+PayrollAppWx/
+├── main.cpp # Точка входа
+├── MainFrame.h / .cpp # Главное окно
+├── EditDialog.h / .cpp # Форма добавления/редактирования
+├── StatisticsDialog.h / .cpp # Окно статистики
+├── Employee.h / .cpp # Класс сотрудника
+├── PayrollSystem.h / .cpp # Singleton система
+└── vcpkg.json # Зависимости vcpkg
